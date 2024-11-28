@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1732793774 source:d:\first_dma\ds\day3-ds-sorts\bubblesort_d_linked_l(nodes_sw)\main.cpp
+	<iostream>
+	"Linked_List.h"
+
+1732795377 d:\first_dma\ds\day3-ds-sorts\bubblesort_d_linked_l(nodes_sw)\include\linked_list.h
+	"Node.h"
+	<iostream>
+
+1732793786 d:\first_dma\ds\day3-ds-sorts\bubblesort_d_linked_l(nodes_sw)\include\node.h
+	<iostream>
+
+1732793832 source:d:\first_dma\ds\day3-ds-sorts\bubblesort_d_linked_l(nodes_sw)\src\linked_list.cpp
+	"Node.h"
+	<iostream>
+
+1732793944 source:d:\first_dma\ds\day3-ds-sorts\bubblesort_d_linked_l(nodes_sw)\src\node.cpp
+	<iostream>
+
